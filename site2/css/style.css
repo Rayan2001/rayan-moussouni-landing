@@ -1,0 +1,416 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+header{
+    background-color: #d47b48;
+    padding: 20px;
+    margin: 0 0 20px 0;
+}
+
+header div{
+    width: 1200px;
+    margin: 0 auto;
+}
+
+header div h1{
+    text-transform: uppercase;
+    text-align: center;
+    color: white;
+    font-size: 50px
+
+}
+
+.container_01{
+    display: flex;
+    background-color: #ddaf7a;
+    width: 1200px;
+    margin: 20px auto;
+}
+
+h2{
+    font-size: 50px;
+    margin: 0 0 10px 0;
+    text-align: center;
+    text-transform: uppercase;
+    color: #ffffff;
+}
+
+.container_img_01{
+    display: block;
+    width: 400px;
+}
+
+.container_img_01 img{
+    width: 300px;
+    margin: 20px;
+    border: 5px solid #ffffff;
+}
+
+.container_text_01{
+    position: relative;
+    width: 900px;
+    margin: 40px 40px 0 0;
+    padding: 0 40px;
+    font-size: 30px;
+    color: white;
+}
+
+.container_text_01 p{
+    position: absolute;
+    font-size: 30px;
+    top:50%;
+    transform: translateY(-50%);
+    color: white;
+}
+
+.container_02{
+    display: flex;
+    background-color: #eca074;
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.container_02 div{
+    margin: 40px;
+    font-size: 30px;
+    color: white;
+}
+
+.container_02 div p{
+    font-size: 30px;
+    color: white;
+}
+
+.container_03{
+    display: flex;
+    background-color: #c87c50;
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.container_img_03{
+    display: block;
+    width: 500px;
+}
+
+.container_img_03 img{
+    width: 400px;
+    margin: 20px;
+    border: 5px solid #ffffff;
+}
+
+.container_text_03{
+    position: relative;
+    width: 900px;
+    margin: 40px 40px 40px 0;
+    padding: 0 40px;
+    font-size: 30px;
+    color: white;
+}
+
+.container_text_03 p{
+    position: absolute;
+    font-size: 30px;
+    top:50%;
+    transform: translateY(-50%);
+    color: white;
+}
+
+.container_04{
+    display: flex;
+    background-color: #eca074;
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.container_img_04{
+    display: block;
+    width: 500px;
+}
+
+.container_img_04 img{
+    width: 400px;
+    margin: 20px;
+    border: 5px solid #ffffff;
+}
+
+.container_text_04{
+    position: relative;
+    width: 900px;
+    margin: 40px 40px 40px 0;
+    padding: 0 40px;
+    font-size: 30px;
+    color: white;
+}
+
+.container_text_04 p{
+    position: absolute;
+    font-size: 30px;
+    top:50%;
+    transform: translateY(-50%);
+    color: white;
+}
+
+.container_05{
+    display: flex;
+    background-color: #c87c50;
+    width: 1200px;
+    margin: 0 auto 20px auto;
+}
+
+.container_img_05{
+    display: block;
+    width: 500px;
+}
+
+.container_img_05 img{
+    width: 400px;
+    margin: 20px;
+    border: 5px solid #ffffff;
+}
+
+.container_text_05{
+    position: relative;
+    width: 900px;
+    margin: 40px 40px 40px 0;
+    padding: 0 40px;
+    font-size: 30px;
+    color: white;
+}
+
+.container_text_05 p{
+    position: absolute;
+    font-size: 30px;
+    top:50%;
+    transform: translateY(-50%);
+    color: white;
+}
+
+.container_06{
+    display: flex;
+    background-color: #ddaf7a;
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.container_06 div{
+    margin: 40px auto;
+    color: white;
+}
+
+.container_07{
+    display: flex;
+    background-color: #bb8c56;
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.container_img_07{
+    display: block;
+    width: 500px;
+}
+
+.container_img_07 img{
+    width: 400px;
+    margin: 20px;
+    border: 5px solid #ffffff;
+}
+
+.container_text_07{
+    position: relative;
+    width: 900px;
+    margin: 40px 40px 40px 0;
+    padding: 0 40px;
+    font-size: 30px;
+    color: white;
+}
+
+.container_text_07 p{
+    position: absolute;
+    font-size: 30px;
+    top:50%;
+    transform: translateY(-50%);
+    color: white;
+}
+
+.container_08{
+    display: flex;
+    background-color: #ddaf7a;
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.container_img_08{
+    display: block;
+    width: 500px;
+}
+
+.container_img_08 img{
+    width: 400px;
+    margin: 20px;
+    border: 5px solid #ffffff;
+}
+
+.container_text_08{
+    position: relative;
+    width: 900px;
+    margin: 40px 40px 40px 0;
+    padding: 0 40px;
+    font-size: 30px;
+    color: white;
+}
+
+.container_text_08 p{
+    position: absolute;
+    font-size: 30px;
+    top:50%;
+    transform: translateY(-50%);
+    color: white;
+}
+
+.container_09{
+    display: flex;
+    background-color: #bb8c56;
+    width: 1200px;
+    margin: 0 auto 20px auto;
+}
+
+.container_img_09{
+    display: block;
+    width: 500px;
+}
+
+.container_img_09 img{
+    width: 400px;
+    margin: 20px;
+    border: 5px solid #ffffff;
+}
+
+.container_text_09{
+    position: relative;
+    width: 900px;
+    margin: 40px 40px 40px 0;
+    padding: 0 40px;
+    font-size: 30px;
+    color: white;
+}
+
+.container_text_09 p{
+    position: absolute;
+    font-size: 30px;
+    top:50%;
+    transform: translateY(-50%);
+    color: white;
+}
+
+.container_10{
+    display: block;
+    background-color: #ddaf7a;
+    width: 1200px;
+    margin: 20px auto;
+}
+
+.container_10 div{
+    padding: 40px;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+}
+
+.container_10 div p{
+    font-size: 30px;
+    color: white;
+}
+
+.container_11{
+    width: 1200px;
+    margin: 0 auto;
+    background-color: #ca5a46;
+
+}
+.container_11_int{
+    display: flex;
+    justify-content: space-around;
+}
+
+.container_text_11 {
+    width: 500px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.container_text_11 div{
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+    background-color: azure;
+}
+
+.container_text_11 p{
+    font-size: 30px;
+    padding: 20px;
+    text-align: right;
+    color: #ffffff;
+}
+
+.form_01{
+    margin: 20px 0;
+}
+
+.text_form{
+    width: 250px;
+    height: 40px;
+    font-size: 20px;
+    border:none;
+    margin: 5px 0;
+    padding: 0 5px;
+    border-radius: 2px;
+    background-color: #d87b6a;
+    color:#ffffff;
+}
+
+
+::placeholder{
+    color:#ffffff;
+}
+
+.button_form{
+    width: 250px;
+    height: 35px;
+    margin: 8px 0 0 0 ;
+    border:solid 2px #ffffff;
+    background-color: #c86655;
+    font-size:15px;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.photo_profil{
+    width: 300px;
+    margin: 20px 0;
+    border: 5px solid #ffffff;
+}
+
+footer{
+    margin: 20px 0 0 0;
+    padding: 10px;
+    background-color: #ac3a26;
+}
+
+footer div{
+    width:1200px;
+    margin: 0 auto;
+}
+
+footer div p{
+    text-align: center;
+    color: white;
+    font-size: 12px;
+}
